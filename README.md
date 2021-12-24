@@ -11,6 +11,7 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
   <img src="Samples/BitmojiWalkthroughDemo.gif" height="200"/>
   <img src="Samples/CoCoDemo.gif" height="200"/>
 </p>
+
 ## Mini Projects
 
 ### Emotion Lens (p5.js, ml5.js, Google Teachable Machine)
