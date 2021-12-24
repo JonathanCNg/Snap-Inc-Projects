@@ -17,7 +17,7 @@ GitHub: https://github.com/JonathanCNg/Emotion-Lens
 
 GitHub: https://github.com/JonathanCNg/Programmer-Doge
 
-Live: https://jonathancng.github.io/p5-template/
+Live: https://jonathancng.github.io/Programmer-Doge/
 
 ### Seaside Bakery Webpage (HTML/CSS/JS)
 
