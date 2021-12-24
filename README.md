@@ -4,7 +4,7 @@ Here are projects that I completed during my time at Snap Inc. as a Snap Enginee
 
 ## Capstone Project
 
-### Prototype Snapchat Feature "Unity By Snap"
+### Prototype Snapchat Feature "Unity By Snap" (React Native Expo, Google Firebase Firestore & Authentication)
 GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 ## Mini Projects
