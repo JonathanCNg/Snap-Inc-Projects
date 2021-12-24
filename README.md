@@ -15,11 +15,15 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 GitHub: https://github.com/JonathanCNg/Emotion-Lens
 
+<img src="Samples/EmotionLens.png" height="300"/>
+
 ### Programmer Doge (p5.js)
 
 GitHub: https://github.com/JonathanCNg/Programmer-Doge
 
 Live: https://jonathancng.github.io/Programmer-Doge/
+
+<img src="Samples/ProgrammerDoge.jpg" height="300"/>
 
 ### Seaside Bakery Webpage (HTML/CSS/JS)
 
@@ -28,3 +32,6 @@ GitHub: https://github.com/Snap-Engineering-Academy-2021/food-town
 My Code: https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
 
 Live: https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
+
+<img src="Samples/SeasideDonuts.jpg" height="300"/>
+
