@@ -3,7 +3,7 @@
 ## Capstone Project
 
 ### Prototype Snapchat Feature "Unity By Snap"
-https://github.com/JonathanCNg/UnityBySnap
+GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 ## Mini Projects
 
