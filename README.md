@@ -1,5 +1,7 @@
 # Snap-Inc-Projects
 
+Here are projects that I completed during my time at Snap Inc. as a Snap Engineering Academy Scholar!
+
 ## Capstone Project
 
 ### Prototype Snapchat Feature "Unity By Snap"
