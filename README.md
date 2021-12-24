@@ -6,9 +6,11 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 
 ### Prototype Snapchat Feature "Unity By Snap" (React Native Expo, Google Firebase Firestore & Authentication)
 GitHub: https://github.com/JonathanCNg/UnityBySnap
-
-<img src="Samples/UnityBySnap.png" height="200"/>
-
+<p>
+  <img src="Samples/UnityBySnap.png" height="200"/>
+  <img src="Samples/BitmojiWalkthroughDemo.gif" height="200"/>
+  <img src="Samples/CoCoDemo.gif" height="200"/>
+</p>
 ## Mini Projects
 
 ### Emotion Lens (p5.js, ml5.js, Google Teachable Machine)
