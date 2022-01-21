@@ -11,7 +11,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 |---|---|---|---|
 **Samples** | <img src="Samples/UnityBySnap.png" height="500"/> | <img src="Samples/BitmojiWalkthroughDemo.gif" height="500"/> | <img src="Samples/CoCoDemo.gif" height="500"/> |
 
-**Tech**: React Native Expo, Google Firebase Firestore & Authentication
+**Tech**: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Google Firebase](https://firebase.google.com/): [Cloud Firestore](https://firebase.google.com/docs/firestore) & [Authentication](https://firebase.google.com/docs/auth)
 
 **GitHub**: https://github.com/JonathanCNg/UnityBySnap
 
