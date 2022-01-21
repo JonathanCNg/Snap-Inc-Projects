@@ -10,7 +10,7 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 | Welcome | Education | Non-Profit |
 |---|---|---|
-| <img src="Samples/UnityBySnap.png" height="400"/> | <img src="Samples/BitmojiWalkthroughDemo.gif" height="400"/> | <img src="Samples/CoCoDemo.gif" height="400"/> |
+| <img src="Samples/UnityBySnap.png" height="500"/> | <img src="Samples/BitmojiWalkthroughDemo.gif" height="500"/> | <img src="Samples/CoCoDemo.gif" height="500"/> |
 
 ## Mini Projects
 
