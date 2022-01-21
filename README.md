@@ -5,7 +5,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 ## Capstone Project
 
 
-### Prototype Snapchat Feature "Unity By Snap"
+### Prototype Snapchat Feature "Unity By Snap" ♥
 
 ~ | Welcome | Education | Non-Profit |
 |---|---|---|---|
