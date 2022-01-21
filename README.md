@@ -1,4 +1,4 @@
-# Snap-Inc-Projects
+# Snap Inc. Projects
 
 Here are web and mobile projects that I completed during my time at Snap Inc. as a Snap Engineering Academy Scholar! 👻👨‍🎓
 
@@ -20,7 +20,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 
 ~ | Emotion Lens | Programmer Doge | Seaside Bakery
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-**Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/doge-sample.gif" height="200"/> | <img src="Samples/seaside-sample.gif" height="200"/>
+**Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/doge-sample.gif" height="200"/> | <img src="Samples/seaside-sample.gif" height="200" width="356"/>
 **Tech** | p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
 **GitHub** | https://github.com/JonathanCNg/Emotion-Lens | https://github.com/JonathanCNg/Programmer-Doge | https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
 **Demo** | https://jonathancng.github.io/Emotion-Lens/ | https://jonathancng.github.io/Programmer-Doge/ | https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
