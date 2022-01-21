@@ -14,10 +14,9 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 ## Mini Projects
 
-Emotion Lens | Programmer Doge | Seaside Bakery
-:-------------------------:|:-------------------------:|:-------------------------:
-p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
-<img src="Samples/EmotionLens.png" height="200"/> | <img src="Samples/ProgrammerDoge.jpg" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
-GitHub: https://github.com/JonathanCNg/Emotion-Lens | GitHub: https://github.com/JonathanCNg/Programmer-Doge | GitHub: https://github.com/Snap-Engineering-Academy-2021/food-town
-👆 | 👆 | My Code: https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan 
-🙅‍♀️ | Live: https://jonathancng.github.io/Programmer-Doge/ | Live: https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
+ | Emotion Lens | Programmer Doge | Seaside Bakery
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Sample | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/ProgrammerDoge.jpg" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
+Tech | p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
+Code | https://github.com/JonathanCNg/Emotion-Lens | https://github.com/JonathanCNg/Programmer-Doge | https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
+Try Me | https://jonathancng.github.io/Emotion-Lens/ | https://jonathancng.github.io/Programmer-Doge/ | https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
