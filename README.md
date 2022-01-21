@@ -1,4 +1,4 @@
-# Snap Inc Projects
+# Snap Inc. Projects
 
 Here are web and mobile projects that I completed during my time at Snap Inc. as a Snap Engineering Academy Scholar! 👻👨‍🎓
 
