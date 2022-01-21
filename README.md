@@ -5,8 +5,11 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 ## Capstone Project
 
 
-### Prototype Snapchat Feature "Unity By Snap" (React Native Expo, Google Firebase Firestore & Authentication)
+### Prototype Snapchat Feature "Unity By Snap"
+
+Tech: React Native Expo, Google Firebase Firestore & Authentication
 GitHub: https://github.com/JonathanCNg/UnityBySnap
+
 
 | Welcome | Education | Non-Profit |
 |---|---|---|
@@ -18,5 +21,5 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/ProgrammerDoge.jpg" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
 **Tech** | p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
-**Code** | https://github.com/JonathanCNg/Emotion-Lens | https://github.com/JonathanCNg/Programmer-Doge | https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
+**GitHub** | https://github.com/JonathanCNg/Emotion-Lens | https://github.com/JonathanCNg/Programmer-Doge | https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
 **Demo** | https://jonathancng.github.io/Emotion-Lens/ | https://jonathancng.github.io/Programmer-Doge/ | https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
