@@ -20,7 +20,7 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 ~ | Emotion Lens | Programmer Doge | Seaside Bakery
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-**Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/ProgrammerDoge.jpg" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
+**Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/doge-sample.gif" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
 **Tech** | p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
 **GitHub** | https://github.com/JonathanCNg/Emotion-Lens | https://github.com/JonathanCNg/Programmer-Doge | https://github.com/Snap-Engineering-Academy-2021/food-town/tree/main/jonathan
 **Demo** | https://jonathancng.github.io/Emotion-Lens/ | https://jonathancng.github.io/Programmer-Doge/ | https://snap-engineering-academy-2021.github.io/food-town/jonathan/index.html
