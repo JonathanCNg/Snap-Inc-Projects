@@ -4,13 +4,13 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 
 ## Capstone Project
 
+
 ### Prototype Snapchat Feature "Unity By Snap" (React Native Expo, Google Firebase Firestore & Authentication)
 GitHub: https://github.com/JonathanCNg/UnityBySnap
-<p>
-  <img src="Samples/UnityBySnap.png" height="400"/>
-  <img src="Samples/BitmojiWalkthroughDemo.gif" height="400"/>
-  <img src="Samples/CoCoDemo.gif" height="400"/>
-</p>
+
+| Welcome | Education | Non-Profit |
+|---|---|---|
+| <img src="Samples/UnityBySnap.png" height="400"/> | <img src="Samples/BitmojiWalkthroughDemo.gif" height="400"/> | <img src="Samples/CoCoDemo.gif" height="400"/> |
 
 ## Mini Projects
 
