@@ -14,7 +14,7 @@ GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 ## Mini Projects
 
- | Emotion Lens | Programmer Doge | Seaside Bakery
+~ | Emotion Lens | Programmer Doge | Seaside Bakery
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 Sample | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/ProgrammerDoge.jpg" height="200"/> | <img src="Samples/SeasideDonuts.jpg" height="200"/>
 Tech | p5.js, ml5.js, Google Teachable Machine | p5.js | HTML/CSS/JS
