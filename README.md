@@ -8,6 +8,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 ### Prototype Snapchat Feature "Unity By Snap"
 
 Tech: React Native Expo, Google Firebase Firestore & Authentication
+
 GitHub: https://github.com/JonathanCNg/UnityBySnap
 
 
