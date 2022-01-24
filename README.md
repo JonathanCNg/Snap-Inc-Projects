@@ -5,7 +5,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 ## Capstone Project
 
 
-### Prototype Snapchat Feature "Unity By Snap" ♥
+### #1 Prototype Snapchat Feature "Unity By Snap" ♥
 
 ~ | Welcome | Education | Non-Profit |
 |---|---|---|---|
@@ -18,7 +18,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 
 ## Mini Projects
 
-~ | Emotion Lens | Programmer Doge | Seaside Bakery
+~ | #2 Emotion Lens | #3 Programmer Doge | #4 Seaside Bakery
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **Sample** | <img src="Samples/fulldemo.gif" height="200"/> | <img src="Samples/doge-sample-crop.gif" height="200"/> | <img src="Samples/seaside-sample.gif" height="200"/>
 **Tech** | [p5.js](https://p5js.org/), [ml5.js](https://ml5js.org/), [Google Teachable Machine](https://teachablemachine.withgoogle.com/) | [p5.js](https://p5js.org/) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)/[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)/[JS](https://www.javascript.com/)
