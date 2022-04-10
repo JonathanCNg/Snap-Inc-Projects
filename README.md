@@ -7,7 +7,7 @@ Here are web and mobile projects that I completed during my time at Snap Inc. as
 
 ### #1 Prototype Snapchat Feature "Unity By Snap" ♥
 
-~ | Welcome | Education | Non-Profit |
+~ | Welcome | Educate | Connect |
 |---|---|---|---|
 **Samples** | [<img src="Samples/UnityBySnap.png" height="500"/>](https://github.com/JonathanCNg/UnityBySnap) | [<img src="Samples/BitmojiWalkthroughDemo.gif" height="500"/>](https://github.com/JonathanCNg/UnityBySnap) | [<img src="Samples/CoCoDemo.gif" height="500"/>](https://github.com/JonathanCNg/UnityBySnap) |
 
